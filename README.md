@@ -84,14 +84,20 @@ VITE_API_URL=https://taskmate-yj5y.onrender.com/api
 
 ## ✅ **Screenshots**
 
-Add your screenshots here:
-
-- Login Page  
+- Login Page
+  <img width="1008" height="645" alt="Screenshot 2025-11-08 112721" src="https://github.com/user-attachments/assets/6992b41c-e8c3-400f-b311-4d56d7a79515" />
+  
 - Register Page  
-- Dashboard  
+- <img width="773" height="584" alt="Screenshot 2025-11-08 112810" src="https://github.com/user-attachments/assets/d121234f-b44e-42d0-8ca3-2ee3aa5c20fc" />
+
+- Dashboard
+- <img width="984" height="530" alt="Screenshot 2025-11-08 112908" src="https://github.com/user-attachments/assets/8084e655-b5a8-4eb3-87e0-36a8c4f479b5" />
+
 - Add/Edit Task Modal  
+<img width="814" height="641" alt="Screenshot 2025-11-08 113027" src="https://github.com/user-attachments/assets/f0f25726-ff33-40c1-8e64-6feb69f883ae" />
 
 ---
+
 
 ## ✅ **How to Run Locally**
 
